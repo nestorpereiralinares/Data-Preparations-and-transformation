@@ -1,2 +1,2 @@
-# Data-Preparations-and-transformation
+# Data-Preparation-and-transformation
 # py for outliers detection
